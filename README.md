@@ -8,8 +8,6 @@
   <a href="https://github.com/SabrynaRodrigues">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SabrynaRodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaRodrigues&layout=compact&langs_count=7&theme=dark"/>
-</div>
-   ![Snake animation](https://github.com/SabrynaRodrigues/SabrynaRodrigues/blob/output/github-contribution-grid-snake.svg)
   </div>
    <img align="right" src="https://media.giphy.com/media/jWtClQ1Mf8yHCdktwu/giphy.gif" width="128" height="128" style="border-radius:50px" />
   <div style="display: inline_block"><br>
