@@ -14,7 +14,8 @@
   <img align="center" alt="Sabryna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sabryna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sabryna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Sabryna-pic" height="150" style="border-radius:50px;" 
+ <img align="right" src="https://media.giphy.com/media/jWtClQ1Mf8yHCdktwu/giphy.gif" width="128" height="128" style="border-radius:50px" />
 </div>
+ 
     
     
