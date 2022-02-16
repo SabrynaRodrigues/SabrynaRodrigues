@@ -1,6 +1,6 @@
 ### Hi! it's Sabryna
 
-- 🌙 Systems Analysis and Development at the University
+- 🌙 Systems Analysis and Development 
 - ⭐ I’m currently learning Python
 - 🌠 Pronouns: she/her
 
