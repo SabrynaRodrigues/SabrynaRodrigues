@@ -17,4 +17,4 @@
   <img align="right" alt="Sabryna-pic" height="150" style="border-radius:50px;" 
 </div>
     
-    ![Snake animation](https://github.com/SabrynaRodrigues/SabrynaRodrigues/blob/output/github-contribution-grid-snake.svg)
+    
