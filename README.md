@@ -13,7 +13,7 @@
   <img align="center" alt="Sabryna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sabryna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sabryna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" src="https://i.pinimg.com/originals/a9/94/77/a99477ceacc3ac8d2990eb40b8bdd91f.gif" width="190" height="190" style="border-radius:50px" />
+    <img align="right" src="https://i.pinimg.com/originals/a9/94/77/a99477ceacc3ac8d2990eb40b8bdd91f.gif" width="130" height="130" style="border-radius:50px" />
 </div>
  
   ##
