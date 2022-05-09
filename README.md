@@ -1,7 +1,7 @@
 ### Hi! it's Sabryna
 
 - 🌙 Systems Analysis and Development 
-- ⭐ I’m currently learning Python
+- ⭐ I’m currently learning Python, JavaScript, HTML, CSS and MySql
 - 🌠 Pronouns: she/her
 
 <div align="center">
