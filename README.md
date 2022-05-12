@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://ibb.co/41KNXH2"/>
+<img align="right" height="590em" src="https://i.ibb.co/tLQCv9z/About-Me-Illustrated-Avatar-with-Mask-Social-Media-Post-3-1.png">
 ### Hi! it's Sabryna <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
 - 🌙 Systems Analysis and Development 
