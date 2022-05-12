@@ -1,4 +1,4 @@
-### Hi! it's Sabryna <img src="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-max-1mb.gif" width="30px">
+### Hi! it's Sabryna <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
 - 🌙 Systems Analysis and Development 
 - ⭐ I’m currently learning Python, JavaScript, HTML, CSS and MySql
