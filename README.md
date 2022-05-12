@@ -1,4 +1,4 @@
-<img align="right" height="290em" src="https://i.ibb.co/tKb29sC/About-Me-Illustrated-Avatar-with-Mask-Social-Media-Post-1-1.png">
+<img align="right" height="290em" src="https://i.ibb.co/vs3b3Np/About-Me-Illustrated-Avatar-with-Mask-Social-Media-Post-4.png">
 
 <h1>Hi! it's Sabryna <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"></h1>
 
