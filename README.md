@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://ton.twitter.com/i/ton/data/dm/1524796112804134916/1524796093602615301/iUazzjcw.png:small.svg"/>
+<img align="right" height="590em" src="https://ibb.co/41KNXH2"/>
 ### Hi! it's Sabryna <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
 - 🌙 Systems Analysis and Development 
