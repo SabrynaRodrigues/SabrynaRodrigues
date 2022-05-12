@@ -1,4 +1,4 @@
-### Hi! it's Sabryna
+### Hi! it's Sabryna <img src="https://media1.giphy.com/media/mR9El2p94bgeSNLnno/giphy.gif?cid=790b761152a17222e843504e392d10de2502647c09434d01&rid=giphy.gif&ct=s" width="30px">
 
 - 🌙 Systems Analysis and Development 
 - ⭐ I’m currently learning Python, JavaScript, HTML, CSS and MySql
