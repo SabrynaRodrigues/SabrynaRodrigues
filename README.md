@@ -16,7 +16,7 @@
   <img align="center" alt="Sabryna-HTML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/524/524545.png">
    <img align="center" alt="Sabryna-CSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/524/524554.png">
     <img align="center" alt="Sabryna-Mysql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
-    <img align="right" src="https://i.pinimg.com/originals/a9/94/77/a99477ceacc3ac8d2990eb40b8bdd91f.gif" width="130" height="130" style="border-radius:50px" />
+    <img align="right" src="https://i.pinimg.com/originals/a2/b9/7f/a2b97fe49f8e5c914bea664ae079cd7b.gif" width="130" height="130" style="border-radius:50px" />
 </div>
  
   ##
