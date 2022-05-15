@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/SabrynaRodrigues">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=SabrynaRodrigues&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaRodrigues&layout=compact&langs_count=7&theme=nord"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=SabrynaRodrigues&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaRodrigues&layout=compact&langs_count=7&theme=blueberry"/>
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Sabryna-Python" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
