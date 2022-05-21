@@ -22,9 +22,9 @@
   ##
   
   <div> 
-  <a href="https://instagram.com/sahyrodri" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1652651320~hmac=28404b29716ea19cf26b21de8b6bd787" height="27px" width="27px" target="_blank"></a>
+  <a href="https://instagram.com/sahyrodri" target="_blank"><img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392__340.png" height="27px" width="27px" target="_blank"></a>
      <a href = "mailto:sabrynarodrigues1804@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/185/185963.png" target="_blank" height="27px" width="27px"></a>
-    <a href ="https://www.linkedin.com/in/sabrynarodrigues/"><img src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1652651414~hmac=170eb187972aa028853297be2a266223" target="blank" height="27px" width="27px"></a>
+    <a href ="https://www.linkedin.com/in/sabrynarodrigues/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" target="blank" height="27px" width="27px"></a>
  
  
   ![Snake animation](https://github.com/SabrynaRodrigues/SabrynaRodrigues/blob/output/github-contribution-grid-snake.svg)
