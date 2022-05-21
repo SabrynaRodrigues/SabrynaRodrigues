@@ -1,4 +1,4 @@
-<img align="right" src="https://i.ibb.co/tKb29sC/About-Me-Illustrated-Avatar-with-Mask-Social-Media-Post-1-1.png" height="250" width="250"/>
+
 <h1>Hi! it's Sabryna <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"></h1>
 
 - 🌙 Systems Analysis and Development 
@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/SabrynaRodrigues">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SabrynaRodrigues&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=SabrynaRodrigues&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaRodrigues&layout=compact&langs_count=7&theme=nord"/>
   </div>
   <div style="display: inline_block"><br>
