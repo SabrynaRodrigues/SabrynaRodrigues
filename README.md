@@ -1,4 +1,4 @@
-<img align="right" height="270" width="270" src="https://i.ibb.co/16vJD3c/Source-code-amico-1.png" alt="Source-code-amico-1" border="0"/>
+<img align="right" height="220" width="220" src="https://i.ibb.co/16vJD3c/Source-code-amico-1.png" alt="Source-code-amico-1" border="0"/>
 <h1>Hi! it's Sabryna <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"></h1>
 
 - 🌙 Systems Analysis and Development 
