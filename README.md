@@ -1,5 +1,5 @@
 <img align="right" height="150" width="150" src="https://i.ibb.co/16vJD3c/Source-code-amico-1.png" alt="Source-code-amico-1" border="0"/>
-<h1>Hi! it's Sabryna <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"></h1>
+<h1>Hi! it's Sabryna</h1>
 
 - 🌙 Systems Analysis and Development 
 - ⭐ I’m currently learning Python, JavaScript, HTML, CSS and MySql
