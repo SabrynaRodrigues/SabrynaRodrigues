@@ -1,4 +1,4 @@
-<img align="right" height="150" width="150" src="https://i.ibb.co/16vJD3c/Source-code-amico-1.png" alt="Source-code-amico-1" border="0"/>
+
 <h1>Hi! it's Sabryna</h1>
 
 - 🌙 Systems Analysis and Development 
