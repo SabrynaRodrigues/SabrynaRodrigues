@@ -1,14 +1,16 @@
 
-<h1>Hi! it's Sabryna</h1>
+<div align="center">
+   <h1>Hi! it's Sabryna</h1>
+</div>
 
-- 🌙 Systems Analysis and Development 
-- ⭐ I’m currently learning Python, JavaScript, HTML, CSS and MySql
-- 🌠 Pronouns: she/her
+<img alt="Gif" height="20" width="20" src="https://64.media.tumblr.com/2b1fc62fb5b9260a091ee30c072fae6e/69be92fa9eb6de56-10/s400x600/eac9d4c57aa9ddff229ac7cf58accde3810d2089.gifv"> Systems Analysis and Development <br>
+<img alt="Gif" height="20" width="20" src="https://64.media.tumblr.com/2b1fc62fb5b9260a091ee30c072fae6e/69be92fa9eb6de56-10/s400x600/eac9d4c57aa9ddff229ac7cf58accde3810d2089.gifv">  I’m currently learning Python, JavaScript, HTML, CSS and MySql <br>
+<img alt="Gif" height="20" width="20" src="https://64.media.tumblr.com/2b1fc62fb5b9260a091ee30c072fae6e/69be92fa9eb6de56-10/s400x600/eac9d4c57aa9ddff229ac7cf58accde3810d2089.gifv">  Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/SabrynaRodrigues">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=SabrynaRodrigues&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaRodrigues&layout=compact&langs_count=7&theme=nord"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=SabrynaRodrigues&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaRodrigues&layout=compact&langs_count=7&theme=nightowl"/>
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Sabryna-Python" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
