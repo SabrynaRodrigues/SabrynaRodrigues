@@ -1,10 +1,9 @@
 
-<div align="center">
-   <h1>Hi! it's Sabryna</h1>
-</div>
 
-<img alt="Gif" height="20" width="20" src="https://64.media.tumblr.com/2b1fc62fb5b9260a091ee30c072fae6e/69be92fa9eb6de56-10/s400x600/eac9d4c57aa9ddff229ac7cf58accde3810d2089.gifv"> Systems Analysis and Development <br>
-<img alt="Gif" height="20" width="20" src="https://64.media.tumblr.com/2b1fc62fb5b9260a091ee30c072fae6e/69be92fa9eb6de56-10/s400x600/eac9d4c57aa9ddff229ac7cf58accde3810d2089.gifv">  Pronouns: she/her
+   <h1> <img alt="Gif" height="50" width="45" src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif">  Hi! it's Sabryna</h1>
+
+- Systems Analysis and Development
+- Pronouns: she/her
 
 
 <div align="center">
