@@ -4,6 +4,7 @@
 
 - Systems Analysis and Development
 - Pronouns: she/her
+<img alt="data" src="https://img.shields.io/badge/-Data%20Science-lightgrey?style=for-the-badge&logo=appveyor">
 
 
 <div align="center">
