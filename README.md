@@ -1,6 +1,9 @@
 
 
    <h1> <img alt="Gif" height="50" width="45" src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif">  Hi! it's Sabryna</h1>
+   <div align="center">
+   <img alt="Gif" height="30" width="35" src="https://c.tenor.com/IgTAi2ds4w0AAAAj/pixel.gif">  <img  alt="Gifwelcome" height="20" width="105" src="https://en.bloggif.com/tmp/02d1e8e413011dacbc220d05a0f748f4/text.gif?1660693428">  <img alt="Gif" height="30" width="35" src="https://c.tenor.com/IgTAi2ds4w0AAAAj/pixel.gif">
+   </div>
 
 - Systems Analysis and Development
 - Pronouns: she/her
