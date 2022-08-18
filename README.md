@@ -30,7 +30,6 @@
   ##
   
   <div> 
-  <a href="https://instagram.com/sahyrodri" target="_blank"><img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392__340.png" height="27px" width="27px" target="_blank"></a>
     <a href ="https://www.linkedin.com/in/sabrynarodrigues/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" target="blank" height="27px" width="27px"></a>
  
  
