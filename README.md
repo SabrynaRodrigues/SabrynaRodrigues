@@ -8,11 +8,6 @@
 - Pronouns: she/her
 
 
-<div align="center">
-  <a href="https://github.com/SabrynaRodrigues">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=SabrynaRodrigues&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrynaRodrigues&layout=compact&langs_count=7&theme=panda"/>
-  </div>
   <img  align="right" alt="Gif" height="150" width="150" src="https://i.gifer.com/origin/fe/fe4ebd8a9c0547e94000a9c759acf591.gif">
   <div style="display: inline_block"><br>
   <h6> I’m currently learning:<br>
