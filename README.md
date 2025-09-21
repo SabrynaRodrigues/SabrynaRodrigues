@@ -10,7 +10,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Studying **Python, Statistics, SQL, Spark, and Power BI**.
+- 🎓 Studying **Python, Statistics, SQL, R, Spark, and Power BI**.
 ---
 
 ### 🛠️ Skills & Tools
