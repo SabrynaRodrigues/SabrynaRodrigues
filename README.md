@@ -29,6 +29,7 @@
   <img alt="NumPy" height="25" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Matplotlib" height="25" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Seaborn" height="25" src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="R" height="25" src="https://img.shields.io/badge/R-4B8BBE?style=for-the-badge&logo=R&logoColor=white">
 </div>
 
 ---
